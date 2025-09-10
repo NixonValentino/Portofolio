@@ -6,7 +6,7 @@
 
 main {
   width: 100%;
-  background-image: url(/assets/background-section.png);
+  background-image: url(assets/background-section.png);
   background-size: 100% 674px;
   height: 674px;
   background-blend-mode: multiply;
@@ -176,7 +176,7 @@ section .image {
 #About {
   display: flex;
   align-items: center;
-  background-image: url(/assets/background-about.png);
+  background-image: url(assets/background-about.png);
   background-blend-mode: multiply;
   background-color: rgb(59, 59, 59);
   position: relative;
