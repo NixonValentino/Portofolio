@@ -16,3 +16,8 @@ var typed = new Typed(".typing",
     }
 )
 
+
+function slide() {
+    const ini = document.querySelector(".navbar")
+    ini.classList.toggle("slide")
+}
